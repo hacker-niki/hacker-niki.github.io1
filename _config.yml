@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-minimal
+title: hacker-niki
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> d111d0744f9a62e81fba9e7f7b79a13ab352d510
